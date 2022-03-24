@@ -1,0 +1,54 @@
+h1 {
+  font-size: 45px;
+}
+.citySearchDisplay {
+  font-size: 30px;
+  font-weight: bolder;
+}
+.todayInfo {
+  text-align: center;
+  line-height: 40px;
+  font-size: 18px;
+}
+.currentTmp {
+  text-align: center;
+  line-height: 50px;
+  font-weight: bolder;
+  background-color: rgba(173, 255, 47, 0.4);
+  border-radius: 20px;
+  margin-top: 10px;
+}
+#search-geo-weather {
+  background-color: green;
+}
+.tmpConversion {
+  font-size: 25px;
+}
+.weeklyForecast {
+  text-align: center;
+  font-weight: bolder;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+.weeklyWeather {
+  text-align: center;
+}
+.First,
+.Second,
+.Third,
+.Forth,
+.Fifth {
+  font-size: 30px;
+  border: 3px solid greenyellow;
+  border-radius: 10px;
+}
+.date {
+  font-size: 15px;
+  margin-top: -20px;
+}
+.whole {
+  border: 5px solid rgba(255, 165, 0, 0.7);
+  max-width: 600px;
+  display: block;
+  margin: 10px auto;
+}
